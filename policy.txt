@@ -1,1 +1,2 @@
 subpolicy 1 budget = 2million
+subpolicy 2 budget = 3 milliion for defence
